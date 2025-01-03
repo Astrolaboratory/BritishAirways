@@ -1,0 +1,5 @@
+Topic 1: flight, ba, service, cabin, crew, trip, london, class, airways, customer
+Topic 2: flight, ba, good, trip, crew, food, service, time, cabin, club
+Topic 3: luggage, baggage, bag, customer, airport, trip, bags, days, claim, british
+Topic 4: flight, ba, british, service, airways, trip, customer, told, london, cancelled
+Topic 5: flight, ba, seat, trip, business, class, seats, hours, london, time
