@@ -16,6 +16,13 @@
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![License Badge](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bad7ba73-3b8a-406a-8ab9-3aa7d8126166" alt="image" width="600" height="400"/>
+</div>
+
+
+
 ## Overview
 This project analyzes customer sentiment and feedback from British Airways reviews using web scraping and machine learning techniques. By extracting insights from Skytrax reviews, we aim to understand customer satisfaction patterns and identify areas for service improvement.
 
